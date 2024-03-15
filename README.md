@@ -8,11 +8,10 @@ Site de loja de bicileta.
 
 ## Live link:
 
-https://douglashf94.github.io/Bikecreft/
+https://douglashf94.github.io/Bikecreft.projeto/
 
 ## Main concepts applied
 
 - Flexbox
-- DOM manipulation
-- Events
+- JavaScript
 - CSS Media Query
