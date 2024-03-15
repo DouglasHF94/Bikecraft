@@ -4,11 +4,11 @@ Site de loja de bicileta.
 
 ## Preview
 
-<img src="https://github.com/DouglasHF94/my-portfolio/blob/main/preview.png" height="500"/>
+<img src="https://github.com/DouglasHF94/Bikecraft/blob/master/fotobikecraft.png" height="500"/>
 
 ## Live link:
 
-https://douglashf94.github.io/my-portfolio/
+https://douglashf94.github.io/Bikecreft/
 
 ## Main concepts applied
 
