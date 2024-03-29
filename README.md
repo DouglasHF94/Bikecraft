@@ -8,7 +8,7 @@ Site de loja de bicileta.
 
 ## Live link:
 
-https://douglashf94.github.io/Bikecreft.projeto/
+https://douglashf94.github.io/bikecreft.projeto/
 
 ## Main concepts applied
 
